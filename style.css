@@ -1,0 +1,75 @@
+/* FONT SIZE */
+
+
+
+/* SIZE BUTTONS :D */
+.btnNum{
+    height: 60px;
+
+}
+
+/* ZONA DE RESPONSIVE */
+#carton{
+    width: 100%;
+}
+
+@media only screen and (min-width: 1400px) {
+    #carton{
+        width: 35%;
+    }
+}
+@media only screen and (max-width: 1399px) {
+    #carton{
+        width: 40%;
+    }
+}
+@media only screen and (max-width: 1299px) {
+    #carton{
+        width: 45%;
+    }
+}
+@media only screen and (max-width: 1199px) {
+    #carton{
+        width: 45%;
+    }
+}
+@media only screen and (max-width: 1099px) {
+    #carton{
+        width: 46%;
+    }
+}
+@media only screen and (max-width: 1000px) {
+    #carton{
+        width: 58%;
+    }
+}
+@media only screen and (max-width: 900px) {
+    #carton{
+        width: 60%;
+    }
+}
+@media only screen and (max-width: 800px) {
+    #carton{
+        width: 65%;
+    }
+}
+@media only screen and (max-width: 780px) {
+    #carton{
+        width: 80%;
+    }
+}
+@media only screen and (max-width: 700px) {
+    #carton{
+        width: 90%;
+    }
+}
+@media only screen and (max-width: 500px) {
+    #carton{
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 499px) {
+    #carton{
+        width: 400px;
+    }
+}
